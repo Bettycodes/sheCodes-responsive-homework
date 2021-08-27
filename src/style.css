@@ -105,3 +105,14 @@ p {
     font-size: 10px;
   }
 }
+
+@media (max-width: 576px) {
+  img {
+    display: none;
+  }
+
+  .project-link {
+    display: flex;
+    justify-content: center;
+  }
+}
