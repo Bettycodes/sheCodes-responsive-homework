@@ -104,10 +104,6 @@ p {
 }
 
 @media (max-width: 574px) {
-  img {
-    display: none;
-  }
-
   .project-link {
     display: flex;
     justify-content: center;
