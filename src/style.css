@@ -99,9 +99,6 @@ p {
 @media (max-width: 185px) {
   .project-link {
     padding: 10px 5px;
-    border-radius: 5px;
-    text-decoration: none;
-    text-transform: capitalize;
     font-size: 10px;
   }
 }
@@ -114,5 +111,15 @@ p {
   .project-link {
     display: flex;
     justify-content: center;
+  }
+  h1 {
+    font-size: 40px;
+  }
+
+  h2 {
+    font-size: 30px;
+  }
+  h3 {
+    font-size: 15px;
   }
 }
