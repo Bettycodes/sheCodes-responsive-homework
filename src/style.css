@@ -95,3 +95,13 @@ p {
   line-height: 25px;
   margin-bottom: 50px;
 }
+
+@media (max-width: 185px) {
+  .project-link {
+    padding: 10px 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 10px;
+  }
+}
