@@ -122,4 +122,9 @@ p {
   h3 {
     font-size: 15px;
   }
+
+  .links a {
+    margin: 15px;
+    padding: 12px 7px;
+  }
 }
