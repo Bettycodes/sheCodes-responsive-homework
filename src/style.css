@@ -103,7 +103,7 @@ p {
   }
 }
 
-@media (max-width: 576px) {
+@media (max-width: 574px) {
   img {
     display: none;
   }
